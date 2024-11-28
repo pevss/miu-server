@@ -1,2 +1,3 @@
-# miu-server
-Backend da plataforma Miu
+# Miu
+
+API Restful da plataforma Miu.
